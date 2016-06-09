@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChattingUp/ViewController.swift"
+            timestampString = "486744564.897792"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChattingUp.Person.init (data : Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;) -&gt; ChattingUp.Person"
+                  moduleName = "ChattingUp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/estudiantes/Desktop/ChattingUp/ChattingUp/ViewController.swift"
+                  timestampString = "486743114.248786"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChattingUp.Person.userId.getter : Swift.Int"
+                  moduleName = "ChattingUp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/estudiantes/Desktop/ChattingUp/ChattingUp/ViewController.swift"
+                  timestampString = "486743114.249311"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChattingUp.Person.userId.setter : Swift.Int"
+                  moduleName = "ChattingUp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/estudiantes/Desktop/ChattingUp/ChattingUp/ViewController.swift"
+                  timestampString = "486743114.249529"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

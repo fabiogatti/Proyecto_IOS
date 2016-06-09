@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (3.4.0)
+  - JSONHelper (1.7.0)
+  - SQLite.swift (0.10.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - JSONHelper (~> 1.7)
+  - SQLite.swift (~> 0.10)
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  JSONHelper: b71808273ac60fb9e1878eb115370b0faac14a81
+  SQLite.swift: 6a6e4b034efc317ce4e203b6af2d3024fee2b570
+
+PODFILE CHECKSUM: 0c694a9c37d9b45216495548f590f5b20de1711b
+
+COCOAPODS: 1.0.0
